@@ -8,18 +8,31 @@ O TFC é um site informativo sobre partidas e classificações de futebol, nele 
 
 Front-end:
 
-```
-CSS3, HTML5, ES6, React, React Router
-```
+
+    CSS3, HTML5, ES6, React, React Router
+
 
 Back-end:
 
-```
-TypeScript, NodeJS, Express, Docker, JWT, MYSQL, Sequelize
-```
+
+    TypeScript, NodeJS, Express, Docker, JWT, MYSQL, Sequelize
+
 
 Testes:
 
-```
-Mocha, Chai, Sinon
-```
+
+    Mocha, Chai, Sinon
+
+
+## Executando aplicação
+
+Para executar, clone esse repositório com o comando:
+
+    git clone git@github.com:StephanCadu/Trybe-Futebol-Clube.git
+
+Entre na raíz do projeto
+
+    cd Trybe-Futebol-Clube
+    
+**OBS:** Certifique-se de ter o Docker instalado na sua máquina!
+
