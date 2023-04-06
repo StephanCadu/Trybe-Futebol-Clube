@@ -32,7 +32,7 @@ Para executar, clone esse repositório com o comando
 
 Entre na raíz do projeto
 
-    cd Trybe-Futebol-Clube
+    cd trybe-futebol-clube
     
 Instale as dependências
 
