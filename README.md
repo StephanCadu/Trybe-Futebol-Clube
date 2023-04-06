@@ -26,7 +26,7 @@ Testes:
 
 ## Executando aplicação
 
-Para executar, clone esse repositório com o comando:
+Para executar, clone esse repositório com o comando
 
     git clone git@github.com:StephanCadu/Trybe-Futebol-Clube.git
 
@@ -34,5 +34,25 @@ Entre na raíz do projeto
 
     cd Trybe-Futebol-Clube
     
+Instale as dependências
+
+    npm install
+    
 **OBS:** Certifique-se de ter o Docker instalado na sua máquina!
+
+Suba a aplicação com o comando
+
+    npm run compose:up:dev
+    
+Acesse a aplicação na rota
+
+    http://localhost:3000/
+    
+Visualize os logs do backend com o comando
+
+    docker-compose logs backend -f
+    
+Faça os testes do backend com o comando
+
+    cd app/backend && npm test
 
