@@ -1,3 +1,25 @@
-# Boas vindas ao repositório do Trybe Futebol Clube!
+# Projeto Trybe Futebol Clube
 
-## ⚠️ README personalizado em construção! ⚠️
+O TFC é um site informativo sobre partidas e classificações de futebol, nele fui responsável por desenvolver e testar uma API REST que permita um usuáro fazer login, vizualizar, inserir e alterar partidas de futebol!
+
+![image](https://user-images.githubusercontent.com/104599291/230459244-991173f3-af70-43df-8104-180ed68f9aae.png)
+
+## Tecnologias utilizadas
+
+Front-end:
+
+```
+CSS3, HTML5, ES6, React, React Router
+```
+
+Back-end:
+
+```
+TypeScript, NodeJS, Express, Docker, JWT, MYSQL, Sequelize
+```
+
+Testes:
+
+```
+Mocha, Chai, Sinon
+```
