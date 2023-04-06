@@ -52,7 +52,7 @@ Visualize os logs do backend com o comando
 
     docker-compose logs backend -f
     
-Faça os testes do backend com o comando
+Rode os testes do backend com o comando
 
     cd app/backend && npm test
 
